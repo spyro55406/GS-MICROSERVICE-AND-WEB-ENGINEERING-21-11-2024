@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROVA\\GS_Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\tests\\energyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\tests\\energyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\tests\\energycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\tests\\energycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\tests\\rediscacheservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\tests\\rediscacheservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\controllers\\energycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\controllers\\energycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\services\\energyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\services\\energyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|d:\\prova\\gs_microservices\\gs_microservices\\models\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F13D33-5E8D-4DFF-9D25-D96E6EBDEAE1}|GS_Microservices\\GS_Microservices.csproj|solutionrelative:gs_microservices\\models\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnergyControllerTests.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Tests\\EnergyControllerTests.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Tests\\EnergyControllerTests.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Tests\\EnergyControllerTests.cs",
+              "RelativeToolTip": "GS_Microservices\\Tests\\EnergyControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:12:35.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnergyServiceTests.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Tests\\EnergyServiceTests.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Tests\\EnergyServiceTests.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Tests\\EnergyServiceTests.cs",
+              "RelativeToolTip": "GS_Microservices\\Tests\\EnergyServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:30:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisCacheServiceTests.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Tests\\RedisCacheServiceTests.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Tests\\RedisCacheServiceTests.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Tests\\RedisCacheServiceTests.cs",
+              "RelativeToolTip": "GS_Microservices\\Tests\\RedisCacheServiceTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvzcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:30:59.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Services\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Services\\RedisCacheService.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Services\\RedisCacheService.cs",
+              "RelativeToolTip": "GS_Microservices\\Services\\RedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:48:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnergyController.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Controllers\\EnergyController.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Controllers\\EnergyController.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Controllers\\EnergyController.cs",
+              "RelativeToolTip": "GS_Microservices\\Controllers\\EnergyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:36:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Program.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Program.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Program.cs",
+              "RelativeToolTip": "GS_Microservices\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:37:58.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnergyService.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Services\\EnergyService.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Services\\EnergyService.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Services\\EnergyService.cs",
+              "RelativeToolTip": "GS_Microservices\\Services\\EnergyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:44:43.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\appsettings.json",
+              "RelativeDocumentMoniker": "GS_Microservices\\appsettings.json",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\appsettings.json",
+              "RelativeToolTip": "GS_Microservices\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T22:32:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GS_Microservices\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GS_Microservices\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T00:32:05.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consumo.cs",
+              "DocumentMoniker": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Models\\Consumo.cs",
+              "RelativeDocumentMoniker": "GS_Microservices\\Models\\Consumo.cs",
+              "ToolTip": "D:\\PROVA\\GS_Microservices\\GS_Microservices\\Models\\Consumo.cs",
+              "RelativeToolTip": "GS_Microservices\\Models\\Consumo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:42:28.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
